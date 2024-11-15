@@ -1,4 +1,4 @@
-# Remover DRM dos Ebooks da Amazon – Passo-a-Passo
+# Remover DRM dos Ebooks da Amazon
 
 Este README explica como remover o DRM de ebooks comprados na Amazon, permitindo maior controle sobre os arquivos. Use este guia com responsabilidade, respeitando os direitos dos autores e não incentivando a pirataria. 
 
