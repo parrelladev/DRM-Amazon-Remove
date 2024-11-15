@@ -10,7 +10,7 @@ Este README explica como remover o DRM de ebooks comprados na Amazon, permitindo
 
 2. **Calibre**  
    - **Versão necessária**: até 4.23  
-   - Disponível para download [aqui](https://calibre-ebook.com/download](https://drive.google.com/file/d/1_tNkplqeqdX-PVrpG4wG_2SyCtuq6lbq/view?usp=sharing).
+   - Disponível para download [aqui](https://drive.google.com/file/d/1_tNkplqeqdX-PVrpG4wG_2SyCtuq6lbq/view?usp=sharing).
 
 3. **Plugin DeDRM para Calibre**  
    - **Versão utilizada**: 6.8  
